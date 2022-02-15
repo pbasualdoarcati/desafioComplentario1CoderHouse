@@ -1,4 +1,4 @@
-Primer desafio complementario de Coder House, en el Curso de JavaScript.
+Primer desafio complementario de Coder House, en el curso de JavaScript.
 
 La consigna es crear un algoritmo utilizando un ciclo.
 
